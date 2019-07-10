@@ -7,7 +7,7 @@ Created on Wed May 15 14:58:10 2019
 # In[文件重命名]
 import os
 import json
-
+# 决策点
 os.chdir(r'I:\AI\B站\52922519')
 for num_dir in os.listdir('.'):
     os.chdir(num_dir)
